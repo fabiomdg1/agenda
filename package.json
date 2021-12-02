@@ -1,0 +1,19 @@
+{
+  "name": "agenda",
+  "version": "0.0.1",
+  "description": "Agenda de clientes em handlebars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiomdg1/agenda.git"
+  },
+  "author": "Fabio Mattos de Godoy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabiomdg1/agenda/issues"
+  },
+  "homepage": "https://github.com/fabiomdg1/agenda#readme"
+}
